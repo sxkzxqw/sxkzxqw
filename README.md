@@ -33,7 +33,7 @@ Thanks for taking the time to get to know me! I look forward to connecting with 
 
 
 ### Contact me:
-Telegram:&nbsp;
+Telegram:
 [![Telegram Badge](https://img.shields.io/badge/-sxkzxqw-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/sxkzxqw)
 
 
