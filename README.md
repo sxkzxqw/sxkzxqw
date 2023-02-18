@@ -31,6 +31,8 @@ Thanks for taking the time to get to know me! I look forward to connecting with 
   <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="webpack" alt="webpack" width="40" height="40"/>&nbsp;
 </div>
 
+### Languages:
+en/ru
 
 ### Contact me:
 Telegram:
