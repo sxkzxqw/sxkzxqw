@@ -13,6 +13,8 @@ In my free time, I like to explore new technologies and experiment with differen
 
 Thanks for taking the time to get to know me! I look forward to connecting with other developers and building amazing things together.
 
+By the way you can check my main projects in pinned repositories! :)
+
 
 ### My stack:
 <div>
