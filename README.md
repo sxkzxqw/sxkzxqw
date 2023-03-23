@@ -7,12 +7,6 @@ I'm proficient in HTML, CSS, and JavaScript, and I'm constantly learning new ski
 
 As a frontend developer, I enjoy working on the visual and interactive aspects of a website or application. I have a keen eye for design and strive to make my projects look polished and professional.
 
-One of my strengths is my ability to collaborate effectively with other developers, designers, and stakeholders. I'm comfortable working in agile environments and using tools such as Git for version control.
-
-In my free time, I like to explore new technologies and experiment with different coding projects. I'm excited to continue learning and growing as a frontend developer, and I'm always looking for new opportunities to apply my skills and contribute to interesting projects.
-
-Thanks for taking the time to get to know me! I look forward to connecting with other developers and building amazing things together.
-
 By the way you can check my main projects in pinned repositories! :)
 
 
