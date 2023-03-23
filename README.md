@@ -42,6 +42,8 @@ en/ru
 Telegram:
 [![Telegram Badge](https://img.shields.io/badge/-sxkzxqw-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/sxkzxqw)
 
+Mail:
+marsel_vagizov@bk.ru
 
 ### 💻 Codewars:
 
