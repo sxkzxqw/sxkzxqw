@@ -36,7 +36,7 @@ en/ru
 Telegram:
 [![Telegram Badge](https://img.shields.io/badge/-sxkzxqw-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/sxkzxqw)
 
-<img src="https://freepngimg.com/download/symbol/64646-icons-computer-gmail-email-address-free-transparent-image-hd.png" title="mail" alt="mail" width="25" height="25"/> mail:
+mail:
 marsel_vagizov@bk.ru
 
 ### 💻 Codewars:
