@@ -1,7 +1,7 @@
 ## Self intoducing:
 
 ### 😇 About me: 
-I'm a beginner frontend developer. I'm passionate about creating beautiful and user-friendly websites and applications that people love to use.
+I'm a junior frontend developer. I'm passionate about creating beautiful and user-friendly websites and applications that people love to use.
 
 I'm proficient in HTML, CSS, and JavaScript, and I'm constantly learning new skills and techniques to improve my coding abilities. I'm also familiar with popular frontend frameworks such as React.
 
