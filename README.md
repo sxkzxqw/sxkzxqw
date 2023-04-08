@@ -7,7 +7,7 @@ I'm proficient in HTML, CSS, and JavaScript, and I'm constantly learning new ski
 
 As a frontend developer, I enjoy working on the visual and interactive aspects of a website or application. I have a keen eye for design and strive to make my projects look polished and professional.
 
-By the way you can check my best projects in pinned repositories!
+By the way you can check my best projects in pinned repositories :)
 
 
 ### My stack:
