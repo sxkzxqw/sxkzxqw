@@ -11,7 +11,6 @@ By the way you can check my best projects in pinned repositories!
 
 <img src="https://komarev.com/ghpvc/?username=sxkzxqw&style=flat-square&color=red" alt=""/>
 
-
 ### My stack:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
