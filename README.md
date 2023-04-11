@@ -43,6 +43,8 @@ marsel_vagizov@bk.ru
 
 ![codewars](https://www.codewars.com/users/sxkzxqw/badges/large)
 
+<img src="https://komarev.com/ghpvc/?username=sxkzxqw&style=flat-square&color=blue" alt=""/>
+
 
 ### ⚙️ GitHub stats:
 
