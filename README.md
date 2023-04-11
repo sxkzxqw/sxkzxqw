@@ -38,12 +38,11 @@ Telegram:
 
 mail:
 marsel_vagizov@bk.ru
+<img src="https://komarev.com/ghpvc/?username=sxkzxqw&style=flat-square&color=red" alt=""/>
 
 ### 💻 Codewars:
 
 ![codewars](https://www.codewars.com/users/sxkzxqw/badges/large)
-
-<img src="https://komarev.com/ghpvc/?username=sxkzxqw&style=flat-square&color=red" alt=""/>
 
 
 ### ⚙️ GitHub stats:
