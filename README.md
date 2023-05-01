@@ -9,7 +9,7 @@ As a frontend developer, I enjoy working on the visual and interactive aspects o
 
 By the way you can check my best projects in pinned repositories!
 
-<img src="https://komarev.com/ghpvc/?username=sxkzxqw&style=flat-square&color=red" alt=""/> 
+<img src="https://komarev.com/ghpvc/?username=sxkzxqw&style=flat-square&color=red" alt=""/>
 
 ### My stack:
 <div>
