@@ -34,11 +34,6 @@ mail:
 marsel.vagizov@bk.ru
 
 
-### 💻 Codewars:
-
-![codewars](https://www.codewars.com/users/sxkzxqw/badges/large)
-
-
 ### ⚙️ GitHub stats:
 
 <table>
