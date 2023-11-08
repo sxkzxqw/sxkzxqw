@@ -24,7 +24,7 @@
 </div>
 
 ### Languages:
-en/ru
+ru/en
 
 ### Contact me:
 Telegram:
