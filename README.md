@@ -21,10 +21,6 @@
 - MongoDB
 - Prisma
 
-
-### Languages:
-ru/en
-
 ### Contact me:
 Telegram:
 [![Telegram Badge](https://img.shields.io/badge/-sxkzxqw-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/sxkzxqw)
