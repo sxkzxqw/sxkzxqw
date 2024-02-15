@@ -1,4 +1,4 @@
-### Frontend developer
+### Frontend developer 👋
 
 **Frontend skills**:
 - JavaScript/TypeScript
