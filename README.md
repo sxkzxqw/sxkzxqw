@@ -4,6 +4,7 @@
 - JavaScript/TypeScript
 - React
 - Redux(Native)/ReduxToolkit
+- RTKQuery, Redux-Saga
 - NextJs
 - Vue/VueX(Basic)
 - Webpack/Vite
